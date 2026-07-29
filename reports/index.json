@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-210812-gee0",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
+      ],
+      "dateStart": "2026-07-29T01:08:12.000Z",
+      "dateEnd": "2026-07-29T02:20:51.000Z",
+      "dateLabel": "7/28/2026, 9:08:12 PM - 7/28/2026, 10:20:51 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260728-210812-gee0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260727-211152-npzv",
       "title": "Vashot Warrior",
       "commanders": [
