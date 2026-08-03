@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-201450-5bcl",
+      "title": "Moody Delightful",
+      "commanders": [
+        "Moody Delightful"
+      ],
+      "guild": {
+        "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
+        "name": "Wölves Of Wär",
+        "tag": "PACK"
+      },
+      "dateStart": "2026-08-03T00:14:50.000Z",
+      "dateEnd": "2026-08-03T01:56:57.000Z",
+      "dateLabel": "8/2/2026, 8:14:50 PM - 8/2/2026, 9:56:57 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260802-201450-5bcl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260801-222437-tmob",
       "title": "Vashot Warrior",
       "commanders": [
