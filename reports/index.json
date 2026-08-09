@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-211101-ymto",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
+      ],
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-09T01:11:01.000Z",
+      "dateEnd": "2026-08-09T02:30:02.000Z",
+      "dateLabel": "8/8/2026, 9:11:01 PM - 8/8/2026, 10:30:02 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260808-211101-ymto",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260807-220936-vllo",
       "title": "Vashot Warrior",
       "commanders": [
