@@ -270,28 +270,5 @@
       "avgSquadSize": 32,
       "avgEnemySize": 29
     }
-  },
-  {
-    "id": "20260730-203348-e8ue",
-    "title": "Moody Delightful",
-    "commanders": [
-      "Moody Delightful"
-    ],
-    "dateStart": "2026-07-31T00:33:48.000Z",
-    "dateEnd": "2026-07-31T01:53:55.000Z",
-    "dateLabel": "7/30/2026, 8:33:48 PM - 7/30/2026, 9:53:55 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260730-203348-e8ue",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 15,
-          "color": "#ef4444"
-        }
-      ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 43
-    }
   }
 ]
