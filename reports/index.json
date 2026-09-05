@@ -244,34 +244,6 @@
     }
   },
   {
-    "id": "20260812-201429-0ptk",
-    "title": "R A D E E",
-    "commanders": [
-      "R A D E E"
-    ],
-    "guild": {
-      "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
-      "name": "Wölves Of Wär",
-      "tag": "PACK"
-    },
-    "dateStart": "2026-08-13T00:14:29.000Z",
-    "dateEnd": "2026-08-13T01:29:51.000Z",
-    "dateLabel": "8/12/2026, 8:14:29 PM - 8/12/2026, 9:29:51 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260812-201429-0ptk",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 21,
-          "color": "#ef4444"
-        }
-      ],
-      "avgSquadSize": 48,
-      "avgEnemySize": 49
-    }
-  },
-  {
     "id": "20260811-214225-z1ns",
     "title": "Vashot Warrior",
     "commanders": [
