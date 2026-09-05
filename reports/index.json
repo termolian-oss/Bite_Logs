@@ -514,33 +514,5 @@
       "avgSquadSize": 46,
       "avgEnemySize": 75
     }
-  },
-  {
-    "id": "20260803-202604-bgky",
-    "title": "Moody Delightful",
-    "commanders": [
-      "Moody Delightful"
-    ],
-    "guild": {
-      "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
-      "name": "Wölves Of Wär",
-      "tag": "PACK"
-    },
-    "dateStart": "2026-08-04T00:26:04.000Z",
-    "dateEnd": "2026-08-04T01:39:47.000Z",
-    "dateLabel": "8/3/2026, 8:26:04 PM - 8/3/2026, 9:39:47 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260803-202604-bgky",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 10,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 50
-    }
   }
 ]
