@@ -38,34 +38,6 @@
     }
   },
   {
-    "id": "20260830-203458-hdwn",
-    "title": "Salazierthaous",
-    "commanders": [
-      "Salazierthaous"
-    ],
-    "guild": {
-      "id": "95708762-3C54-F011-81AC-95DFE50946EB",
-      "name": "Hazardous Guild",
-      "tag": "HZRD"
-    },
-    "dateStart": "2026-08-31T00:34:58.000Z",
-    "dateEnd": "2026-08-31T01:29:50.473Z",
-    "dateLabel": "8/30/2026, 8:34:58 PM - 8/30/2026, 9:29:50 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260830-203458-hdwn",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 18,
-          "color": "#ef4444"
-        }
-      ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 33
-    }
-  },
-  {
     "id": "20260829-210403-zcio",
     "title": "Vashot Warrior",
     "commanders": [
