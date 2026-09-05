@@ -542,38 +542,5 @@
       "avgSquadSize": 40,
       "avgEnemySize": 50
     }
-  },
-  {
-    "id": "20260801-222437-tmob",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
-    },
-    "dateStart": "2026-08-02T02:24:37.000Z",
-    "dateEnd": "2026-08-02T02:57:27.000Z",
-    "dateLabel": "8/1/2026, 10:24:37 PM - 8/1/2026, 10:57:27 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260801-222437-tmob",
-    "summary": {
-      "borderlandsPct": 0.875,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 7,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 1,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 49
-    }
   }
 ]
