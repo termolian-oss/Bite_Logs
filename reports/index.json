@@ -1,429 +1,462 @@
-[
-  {
-    "id": "20260901-211129-evmj",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
-    },
-    "dateStart": "2026-09-02T01:11:29.000Z",
-    "dateEnd": "2026-09-02T02:03:40.622Z",
-    "dateLabel": "9/1/2026, 9:11:29 PM - 9/1/2026, 10:03:40 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260901-211129-evmj",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 6,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        }
+{
+  "colorPalette": "violet-purple",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260904-220737-fngu",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 41
-    }
-  },
-  {
-    "id": "20260829-210403-zcio",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-09-05T02:07:37.000Z",
+      "dateEnd": "2026-09-05T03:08:58.195Z",
+      "dateLabel": "9/4/2026, 10:07:37 PM - 9/4/2026, 11:08:58 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260904-220737-fngu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 37
+      }
     },
-    "dateStart": "2026-08-30T01:04:03.000Z",
-    "dateEnd": "2026-08-30T02:53:55.498Z",
-    "dateLabel": "8/29/2026, 9:04:03 PM - 8/29/2026, 10:53:55 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260829-210403-zcio",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 20,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260901-211129-evmj",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 48,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260828-220941-5x1k",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-09-02T01:11:29.000Z",
+      "dateEnd": "2026-09-02T02:03:40.622Z",
+      "dateLabel": "9/1/2026, 9:11:29 PM - 9/1/2026, 10:03:40 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260901-211129-evmj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 41
+      }
     },
-    "dateStart": "2026-08-29T02:09:41.000Z",
-    "dateEnd": "2026-08-29T02:47:37.912Z",
-    "dateLabel": "8/28/2026, 10:09:41 PM - 8/28/2026, 10:47:37 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260828-220941-5x1k",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 34,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260829-210403-zcio",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 45,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260822-211115-y6jc",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-30T01:04:03.000Z",
+      "dateEnd": "2026-08-30T02:53:55.498Z",
+      "dateLabel": "8/29/2026, 9:04:03 PM - 8/29/2026, 10:53:55 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260829-210403-zcio",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 48
+      }
     },
-    "dateStart": "2026-08-23T01:11:15.000Z",
-    "dateEnd": "2026-08-23T02:40:41.804Z",
-    "dateLabel": "8/22/2026, 9:11:15 PM - 8/22/2026, 10:40:41 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260822-211115-y6jc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 7,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260828-220941-5x1k",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 47,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260821-221121-bklx",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-29T02:09:41.000Z",
+      "dateEnd": "2026-08-29T02:47:37.912Z",
+      "dateLabel": "8/28/2026, 10:09:41 PM - 8/28/2026, 10:47:37 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260828-220941-5x1k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 34,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 48
+      }
     },
-    "dateStart": "2026-08-22T02:11:21.000Z",
-    "dateEnd": "2026-08-22T03:07:21.574Z",
-    "dateLabel": "8/21/2026, 10:11:21 PM - 8/21/2026, 11:07:21 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260821-221121-bklx",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260822-211115-y6jc",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 45,
-      "avgEnemySize": 50
-    }
-  },
-  {
-    "id": "20260817-211553-qn29",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-23T01:11:15.000Z",
+      "dateEnd": "2026-08-23T02:40:41.804Z",
+      "dateLabel": "8/22/2026, 9:11:15 PM - 8/22/2026, 10:40:41 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260822-211115-y6jc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 44
+      }
     },
-    "dateStart": "2026-08-18T01:15:53.000Z",
-    "dateEnd": "2026-08-18T02:46:23.000Z",
-    "dateLabel": "8/17/2026, 9:15:53 PM - 8/17/2026, 10:46:23 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260817-211553-qn29",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 15,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260821-221121-bklx",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260815-210730-s4zp",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-22T02:11:21.000Z",
+      "dateEnd": "2026-08-22T03:07:21.574Z",
+      "dateLabel": "8/21/2026, 10:11:21 PM - 8/21/2026, 11:07:21 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260821-221121-bklx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 50
+      }
     },
-    "dateStart": "2026-08-16T01:07:30.000Z",
-    "dateEnd": "2026-08-16T02:40:02.000Z",
-    "dateLabel": "8/15/2026, 9:07:30 PM - 8/15/2026, 10:40:02 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260815-210730-s4zp",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 10,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260817-211553-qn29",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 47,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260814-221557-a39e",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-18T01:15:53.000Z",
+      "dateEnd": "2026-08-18T02:46:23.000Z",
+      "dateLabel": "8/17/2026, 9:15:53 PM - 8/17/2026, 10:46:23 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260817-211553-qn29",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 43
+      }
     },
-    "dateStart": "2026-08-15T02:15:57.000Z",
-    "dateEnd": "2026-08-15T03:35:01.000Z",
-    "dateLabel": "8/14/2026, 10:15:57 PM - 8/14/2026, 11:35:01 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260814-221557-a39e",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 19,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260815-210730-s4zp",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260811-214225-z1ns",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-16T01:07:30.000Z",
+      "dateEnd": "2026-08-16T02:40:02.000Z",
+      "dateLabel": "8/15/2026, 9:07:30 PM - 8/15/2026, 10:40:02 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260815-210730-s4zp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 46
+      }
     },
-    "dateStart": "2026-08-12T01:42:25.000Z",
-    "dateEnd": "2026-08-12T03:00:37.000Z",
-    "dateLabel": "8/11/2026, 9:42:25 PM - 8/11/2026, 11:00:37 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260811-214225-z1ns",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260814-221557-a39e",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 46,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260811-214225-udew",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-15T02:15:57.000Z",
+      "dateEnd": "2026-08-15T03:35:01.000Z",
+      "dateLabel": "8/14/2026, 10:15:57 PM - 8/14/2026, 11:35:01 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260814-221557-a39e",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 53
+      }
     },
-    "dateStart": "2026-08-12T01:42:25.000Z",
-    "dateEnd": "2026-08-12T03:00:37.000Z",
-    "dateLabel": "8/11/2026, 9:42:25 PM - 8/11/2026, 11:00:37 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260811-214225-udew",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260811-214225-z1ns",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 46,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260810-223426-v1e5",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-12T01:42:25.000Z",
+      "dateEnd": "2026-08-12T03:00:37.000Z",
+      "dateLabel": "8/11/2026, 9:42:25 PM - 8/11/2026, 11:00:37 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260811-214225-z1ns",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 49
+      }
     },
-    "dateStart": "2026-08-11T02:34:26.000Z",
-    "dateEnd": "2026-08-11T03:03:19.000Z",
-    "dateLabel": "8/10/2026, 10:34:26 PM - 8/10/2026, 11:03:19 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260810-223426-v1e5",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 7,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260811-214225-udew",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 37
-    }
-  },
-  {
-    "id": "20260810-211834-ey9b",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-12T01:42:25.000Z",
+      "dateEnd": "2026-08-12T03:00:37.000Z",
+      "dateLabel": "8/11/2026, 9:42:25 PM - 8/11/2026, 11:00:37 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260811-214225-udew",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 49
+      }
     },
-    "dateStart": "2026-08-11T01:18:34.000Z",
-    "dateEnd": "2026-08-11T02:40:15.000Z",
-    "dateLabel": "8/10/2026, 9:18:34 PM - 8/10/2026, 10:40:15 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260810-211834-ey9b",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 13,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 7,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260810-223426-v1e5",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260808-211101-ymto",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-11T02:34:26.000Z",
+      "dateEnd": "2026-08-11T03:03:19.000Z",
+      "dateLabel": "8/10/2026, 10:34:26 PM - 8/10/2026, 11:03:19 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260810-223426-v1e5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 37
+      }
     },
-    "dateStart": "2026-08-09T01:11:01.000Z",
-    "dateEnd": "2026-08-09T02:30:02.000Z",
-    "dateLabel": "8/8/2026, 9:11:01 PM - 8/8/2026, 10:30:02 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260808-211101-ymto",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 24,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260810-211834-ey9b",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 46,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260807-220936-vllo",
-    "title": "Vashot Warrior",
-    "commanders": [
-      "Vashot Warrior"
-    ],
-    "guild": {
-      "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
-      "name": "Nightmares Bane",
-      "tag": "BANE"
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-11T01:18:34.000Z",
+      "dateEnd": "2026-08-11T02:40:15.000Z",
+      "dateLabel": "8/10/2026, 9:18:34 PM - 8/10/2026, 10:40:15 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260810-211834-ey9b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 44
+      }
     },
-    "dateStart": "2026-08-08T02:09:36.000Z",
-    "dateEnd": "2026-08-08T03:36:28.000Z",
-    "dateLabel": "8/7/2026, 10:09:36 PM - 8/7/2026, 11:36:28 PM",
-    "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260807-220936-vllo",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 24,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260808-211101-ymto",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
       ],
-      "avgSquadSize": 46,
-      "avgEnemySize": 75
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-09T01:11:01.000Z",
+      "dateEnd": "2026-08-09T02:30:02.000Z",
+      "dateLabel": "8/8/2026, 9:11:01 PM - 8/8/2026, 10:30:02 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260808-211101-ymto",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260807-220936-vllo",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
+      ],
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-08T02:09:36.000Z",
+      "dateEnd": "2026-08-08T03:36:28.000Z",
+      "dateLabel": "8/7/2026, 10:09:36 PM - 8/7/2026, 11:36:28 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20260807-220936-vllo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 75
+      }
     }
-  }
-]
+  ]
+}
