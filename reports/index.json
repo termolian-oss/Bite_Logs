@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261115-200958-du5i",
+      "title": "Geira Niell",
+      "commanders": [
+        "Geira Niell"
+      ],
+      "guild": {
+        "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
+        "name": "Wölves Of Wär",
+        "tag": "PACK"
+      },
+      "dateStart": "2026-11-16T01:09:58.000Z",
+      "dateEnd": "2026-11-16T02:45:37.413Z",
+      "dateLabel": "11/15/2026, 8:09:58 PM - 11/15/2026, 9:45:37 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20261115-200958-du5i",
+      "publishedBy": "termolian-oss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261114-210712-fc8h",
       "title": "Vashot",
       "commanders": [
