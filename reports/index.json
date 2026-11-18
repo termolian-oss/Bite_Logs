@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261117-211051-gv1w",
+      "title": "Vashot",
+      "commanders": [
+        "Vashot"
+      ],
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-11-18T02:10:51.000Z",
+      "dateEnd": "2026-11-18T03:39:52.250Z",
+      "dateLabel": "11/17/2026, 9:10:51 PM - 11/17/2026, 10:39:52 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20261117-211051-gv1w",
+      "publishedBy": "termolian-oss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 16,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20261116-211958-hh52",
       "title": "Vashot",
       "commanders": [
