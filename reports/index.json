@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261125-200915-25vo",
+      "title": "Doxmander",
+      "commanders": [
+        "Doxmander"
+      ],
+      "guild": {
+        "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
+        "name": "Wölves Of Wär",
+        "tag": "PACK"
+      },
+      "dateStart": "2026-11-26T01:09:15.000Z",
+      "dateEnd": "2026-11-26T02:27:33.130Z",
+      "dateLabel": "11/25/2026, 8:09:15 PM - 11/25/2026, 9:27:33 PM",
+      "url": "https://termolian-oss.github.io/Bite_Logs/?report=20261125-200915-25vo",
+      "publishedBy": "termolian-oss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 24,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20261124-211813-kat1",
       "title": "Vashot",
       "commanders": [
